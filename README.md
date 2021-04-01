@@ -3,3 +3,4 @@
 [indexing selecting](https://www.kaggle.com/rudrakumawat22/exercise-indexing-selecting-assigning).
 [summary fuctions and maps](https://www.kaggle.com/rudrakumawat22/exercise-summary-functions-and-maps).
 ['grouping and sorting](https://www.kaggle.com/rudrakumawat22/exercise-grouping-and-sorting).
+[data types and missing values](https://www.kaggle.com/rudrakumawat22/exercise-data-types-and-missing-values).
